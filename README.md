@@ -31,6 +31,8 @@ STEP-3: Arrange the keyword without duplicates in a 5*5 matrix in the row order 
 STEP-4: Group the plain text in pairs and match the corresponding corner letters by forming a rectangular grid.
 STEP-5: Display the obtained cipher text.
 
+## NAME: RAJA RITHIKA
+## REG NO: 2305001029
 
 
 
